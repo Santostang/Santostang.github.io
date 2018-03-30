@@ -34,7 +34,7 @@ I'm passionate about applying my knowledge of data analytics and machine learnin
   - Sales Analytics: Analyzed 3 months’ sales and customer data and designed 17 charts to understand business process
   - Business Intelligence: Developed a BI platform using d3.js to report the performance of pre-sales, sales and post-sales, resulting in visualizing data in real-time
 
-### Publish
+### Published Book
 <img src="/asset/crawling.jpg" width="130"> <img src="/asset/h1b.jpg" width="250">
 * [Web Crawling with Python](http://item.jd.com/12180379.html){:target="_blank"} by China Machine Press in 2017
   - **Over 10,000 sales** in Alibaba/Amazon/JD platform
