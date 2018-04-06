@@ -15,7 +15,6 @@ I have to thank the following cheat sheets
 4. [Pandas_Cheat_Sheet2 by Datacamp](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf)
 5. [Pandas DataFrame Note by uidaho](http://www.webpages.uidaho.edu/~stevel/504/Pandas%20DataFrame%20Notes.pdf)
 
-<br>
 ## How to use?
 
 I provided two versions of cheat sheet, one is with answer, one is without answer. You can use the one without answer to test yourself, and practice.
